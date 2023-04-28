@@ -42,7 +42,7 @@ Crie uma conta no Asaas Sandbox( https://sandbox.asaas.com/ ), na parte de Confi
 1. Clone Project - 
 
 ```bash
-git clone https://github.com/heliocesar/perfectPay.git
+git clone https://github.com/heliocesar/pay.git
 ```
 1. Go to the project drectory by `cd pay` & Run the
 2. Create `.env` file & Copy `.env.example` file to `.env` file
