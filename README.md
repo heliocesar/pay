@@ -20,6 +20,11 @@ Basic Laravel API application
 3. [x] No .env do projeto colocar a chave -> CHAVE_API = "sua chave"
 4. [x] No .env do projeto colocar a dominio -> URL_ASAAS = "https://sandbox.asaas.com" 
 
+Documentação: https://asaasv3.docs.apiary.io/#
+
+Credenciais de Sandbox:
+Crie uma conta no Asaas Sandbox( https://sandbox.asaas.com/ ), na parte de Configuração de Conta->Integrações você irá conseguir a API Key de Sandbox para iniciar a integração.
+
 ### API List:
 
 ##### Cliente Module
