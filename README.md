@@ -11,7 +11,6 @@ Basic Laravel API application
 1. Laravel 8.x
 1. Interface-Repository Pattern
 1. Model Based Eloquent Query
-1. postman collection file - project root -> farmarcas.postman_collection.json
 1. PHP Unit Testing - Some basic unit testing added.
 
 ### Create Asaas:
